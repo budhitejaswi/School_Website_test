@@ -1,0 +1,15 @@
+#marqueeStyle{
+    background-color: cadetblue;
+    
+    font-size: 18px;
+    font-family: fantasy;
+    color:cornsilk;
+
+}
+#video{
+    width:100%;
+    height: 600px;
+}
+#contact{
+    color:black;
+}
